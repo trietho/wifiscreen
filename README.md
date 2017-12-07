@@ -9,7 +9,7 @@ How to turn on the second desktop: **[Windows Key] + P**, then select **Extend**
 
 WifiScreen is an free and open source application that help Windows users can use their mobile devices as their second physical monitor.
 
-This application is built on top of TightVNC with minimum configurations for extending screen purposes only. Thus every devices and computers that can run a VNC Viewer application then can be used as an extended monitor.
+This application is built on top of TightVNC with minimum configurations for extending screen purposes only. Thus, every devices and computers that can run a VNC Viewer application then can be used as an extended monitor.
 
 # Usage
 - Download the installations
@@ -32,10 +32,10 @@ The settings when click on Configurations button (you can only change the settin
 ![WifiScreen Server Settings](screenshoots/WifiScreenServerConfiguration.png)
 
 
-![WifiScreen Server Settings](screenshoots/WifiScreenServerConfiguration.png)
+![WifiScreen Server Settings](screenshoots/WifiScreenServerConfiguration2.png)
 
 
 Thanks to TightVNC team for the source code (https://www.tightvnc.com/download.php).
-- Note: On this download page, you may want to try DFMirage Driver to improve TightVNC performance as they mentioned.
+- Note: On this download page, you may want to try DFMirage Driver to improve WifiScreen Server performance (as they mentioned).
 
 WifiScreen is an R&D project of http://www.3stone.vn/
