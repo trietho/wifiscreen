@@ -1,4 +1,4 @@
-# wifiscreen
+# WifiScreen
 Using  iPad, tablet, iPhone, android devices or other computers as an extended monitor for Microsoft Windows
 
 # Introduction
@@ -18,6 +18,8 @@ This application is built on top of TightVNC with minimum configurations for ext
 
 - Run WifiScreen application
 - Run VNC Viewer application on devices/computer then connect to the server:port as shown in the WifiScreen Connector.
+
+![WifiScreen Connector](screenshoots/IMG_6949.JPG)
 
 ## Settings
 - Select a screen or all screens to share to other devices
