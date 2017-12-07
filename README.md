@@ -31,8 +31,7 @@ The settings when click on Configurations button (you can only change the settin
 
 ![WifiScreen Server Settings](screenshoots/WifiScreenServerConfiguration.png)
 
-
-![WifiScreen Server Settings](screenshoots/WifiScreenServerConfiguration2.png)
+![WifiScreen Server Settings](screenshoots/WifiScreenConfiguration2.png)
 
 
 Thanks to TightVNC team for the source code (https://www.tightvnc.com/download.php).
