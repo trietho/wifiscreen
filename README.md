@@ -7,7 +7,7 @@ On Windows OS (7 and later), you are able to extend the second monitor even with
 
 How to turn on the second desktop: **[Windows Key] + P**, then select **Extend**
 
-WifiScreen is an free and open source application that help Windows users can use their mobile devices as their second physical monitor.
+WifiScreen is a free and open source application that help Windows users can use their mobile devices as their second physical monitor.
 
 This application is built on top of TightVNC with minimum configurations for extending screen purposes only. Thus, every devices and computers that can run a VNC Viewer application then can be used as an extended monitor.
 # Downloads
