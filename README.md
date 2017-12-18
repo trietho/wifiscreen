@@ -12,16 +12,16 @@ WifiScreen is a free and open source application that help Windows users can use
 This application is built on top of TightVNC with minimum configurations for extending screen purposes only. Thus, every devices and computers that can run a VNC Viewer application then can be used as an extended monitor.
 # Downloads
 ## Install packages
-- WifiScreen Setup for Win32 [WifiScreenSetup_win32.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreenSetup_win32.zip)
-- WifiScreen Setup for Win64 [WifiScreenSetup_win64.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreenSetup_win64.zip)
+- WifiScreen Setup for Windows 7 32-bit and later [WifiScreenSetup_win32.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreenSetup_win32.zip)
+- WifiScreen Setup for Windows 7 64-bit and later [WifiScreenSetup_win64.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreenSetup_win64.zip)
 
 ## Portable packages
-- WifiScreen Win32 Portable [WifiScreen_Win32_Portable.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreen_Win32_Portable.zip)
-- WifiScreen Win64 Portable [WifiScreen_Win64_Portable.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreen_Win64_Portable.zip)
+- WifiScreen Portable for Windows 7 32-bit and later  [WifiScreen_Win32_Portable.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreen_Win32_Portable.zip)
+- WifiScreen Portable for Windows 7 64-bit and later  [WifiScreen_Win64_Portable.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreen_Win64_Portable.zip)
 
 # Usage
 
-- Run WifiScreen application
+- Run WifiScreen application on computer/laptop
 - Run VNC Viewer application on devices/computer then connect to the **server:port** as shown in the WifiScreen Connector.
 
 
